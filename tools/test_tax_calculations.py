@@ -1,5 +1,5 @@
 import unittest
-from tax_calculators import TaxCalculator
+from tools.tax_calculators import TaxCalculator
 from users import users
 
 class TestTaxCalculations(unittest.TestCase):
